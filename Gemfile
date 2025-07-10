@@ -1,8 +1,8 @@
 source "http://rubygems.org"
 
 gem "json"
-gem 'sinatra',     '~> 1.3.5'
-gem 'octokit'
+gem 'sinatra', '~> 2.0.0'
+gem 'octokit', '>= 4.8.0'
 gem 'jwt'
-gem 'rails'
+gem 'rails', '>= 7.1.0'
 gem 'rest-client'
