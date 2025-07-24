@@ -4,5 +4,5 @@ gem "json"
 gem 'sinatra',     '~> 1.3.5'
 gem 'octokit'
 gem 'jwt'
-gem 'rails'
+gem 'rails', '>= 4.2.11'
 gem 'rest-client'
